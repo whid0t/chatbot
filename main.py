@@ -3,7 +3,7 @@ from tkinter import *
 
 
 #the worlists with the commands
-wordlist_greeting = ("hello", "hi", "greetings", "sup", "what's up")
+wordlist_greeting = ("hello", "hi", "greetings", "sup", "what's up", "yo")
 wordlist_help = ("help", "wordlists", "help chatbot", "wordlist")
 wordlist_time = ("time", "what time", "say time", "localtime")
 wordlist_math = ("math", "sum", "do math", "help math")
